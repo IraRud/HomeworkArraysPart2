@@ -63,7 +63,7 @@ public class Task_1234 {
         циклом и распечатать его элементы в правильном порядке.*/
         char[] reverseFullName = { 'n', 'a', 'v', 'I', ' ', 'v', 'o', 'n', 'a', 'v', 'I'};
         System.out.print("Массив с ошибками: ");
-        for (char element : reverseFullName    // вывод страрого массива
+        for (char element : reverseFullName    // вывод старого массива
         ) {
             System.out.print(element);
         }
